@@ -1,0 +1,1 @@
+{"name":"Local: TrianglePartitioning","url":"c:\\Programming\\RandomMarathon\\TrianglePartitioning.cpp","tests":[{"id":1663667477653,"input":"4\n100 100 100 2\n10 12 14 1\n7 8 9 10\n8.134 9.098 7.123 5.10\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Programming\\RandomMarathon\\TrianglePartitioning.cpp","group":"local","local":true}

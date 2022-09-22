@@ -1,0 +1,1 @@
+{"name":"Local: sumoftwoValues","url":"c:\\Programming\\RandomMarathon\\sumoftwoValues.cpp","tests":[{"id":1663588352394,"input":"4 8\n2 7 5 1","output":""},{"id":1663595885461,"input":"3 4\n1 3 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Programming\\RandomMarathon\\sumoftwoValues.cpp","group":"local","local":true}
